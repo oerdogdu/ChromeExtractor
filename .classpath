@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Atoi/Downloads/commons-io-2.5-bin/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Atoi/Downloads/jna-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Atoi/Downloads/jna-platform-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Atoi/Downloads/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Atoi/Downloads/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Atoi/Downloads/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
